@@ -17,3 +17,6 @@ sym_similar_24_1_50.ttp
 sym_similar_17_3_50.ttp
 
 sym_similar_17_1_50.ttp
+
+
+**Note:** the time windows are presented at the end of the file (since we are reading explicit traveling cost matrices, and not node coordinates), unlike in the benchmark instances where they are presented next to the node coordinates.
