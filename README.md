@@ -10,7 +10,7 @@ The TTPTW instance named "sym_similar_17_1_50_TW_A_2" was created using the TTP 
 
 
 
-The generated instances were created using the following TTP instances as baseline, introduced in [https://10.1016/j.ejor.2026.08.002](https://doi.org/10.1016/j.ejor.2026.08.002) :
+The generated instances were created using the following TTP instances as baseline, introduced in [https://10.1016/j.ejor.2026.08.002](https://doi.org/10.1016/j.ejor.2026.08.002) and available at [https://github.com/tskapancioglu/TravelingThiefProblem](https://github.com/tskapancioglu/TravelingThiefProblem) :
 
 sym_similar_24_3_50.ttp
 
