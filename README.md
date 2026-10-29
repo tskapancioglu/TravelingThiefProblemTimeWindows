@@ -29,4 +29,4 @@ The generated instances were created using the following TTP instances as baseli
 
 
 
-**Note:** the <u>time windows are presented at the end of the file</u> (since we are reading explicit traveling cost matrices, and not node coordinates), unlike in the benchmark instances where they are presented next to the node coordinates.
+**Note:** the <span style="text-decoration: underline;">time windows are presented at the end of the file</span> (since we are reading explicit traveling cost matrices, and not node coordinates), unlike in the benchmark instances where they are presented next to the node coordinates.
