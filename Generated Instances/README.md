@@ -4,7 +4,7 @@
 
 **Number of width parameters**: 4
 
- - $l \in$ {-2, -4, 4, 2}
+ - $l \in$ {-2, -4, 4, 2}, here ordered by descending time window width.
 
 **Number of tours considered**: 2
 
