@@ -1,4 +1,4 @@
-# Generated Instances (TTPTW)
+# TTPTW Generated Instances
 
 **Number of instances**: 32
 
