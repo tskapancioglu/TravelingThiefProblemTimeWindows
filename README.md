@@ -2,9 +2,9 @@
 
 Number of instances: 32
 
-Number of width parameters: 4      l =-2,-4,4,2
+Number of width parameters: 4      $(l \in \{-2, -4, 4, 2\})$
 
-Number of tours considered: 2
+Number of tours considered: 2      (Type A: Optimal TSP tour, Type B: Random tour)
 
 The TTPTW instance named "sym_similar_17_1_50_TW_A_2" was created using the TTP instance "sym_similar_17_1_50" as a baseline, and its time windows were generated using the optimal TSP tour (instance type A) and a width parameter l = 2.
 
