@@ -1,7 +1,5 @@
 # Generated Instances (TTPTW)
 
-DIL0
-
 Number of instances: 32
 
 Number of width parameters: 4
@@ -31,4 +29,4 @@ The generated instances were created using the following TTP instances as baseli
 
 
 
-**Note:** the <span style="text-decoration: underline;">time windows are presented at the end of the file</span> (since the file contains explicit traveling cost matrices), unlike in the benchmark instances where they are presented next to the node coordinates.
+**Note:** the <ins>time windows are presented at the end of the file</ins> (since the file contains explicit traveling cost matrices), unlike in the benchmark instances where they are presented next to the node coordinates.
