@@ -10,7 +10,7 @@ Number of tours considered: 2
 
 - Type A: Optimal TSP tour
 
-- Type B: Random tour <br>
+- Type B: Random tour <br><br>
 
 
 The TTPTW instance named "sym_similar_17_1_50_TW_A_2" was created using the TTP instance "sym_similar_17_1_50" as a baseline, and its time windows were generated using the optimal TSP tour (instance type A) and a width parameter $l = 2$. <br><br>
@@ -25,8 +25,8 @@ The generated instances were created using the following TTP instances as baseli
 
 - sym_similar_17_3_50.ttp
 
-- sym_similar_17_1_50.ttp <br><br><br>
+- sym_similar_17_1_50.ttp <br><br>
 
 
 
-**Note:** the <u> time windows are presented at the end of the file</u> (since we are reading explicit traveling cost matrices, and not node coordinates), unlike in the benchmark instances where they are presented next to the node coordinates.
+**Note:** the <u>time windows are presented at the end of the file</u> (since we are reading explicit traveling cost matrices, and not node coordinates), unlike in the benchmark instances where they are presented next to the node coordinates.
